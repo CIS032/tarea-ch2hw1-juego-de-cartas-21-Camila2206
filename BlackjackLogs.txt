@@ -1,0 +1,214 @@
+2017/11/27
+Bienvenido al juego
+Usted tiene 100 dolares.¿Cuanto diner quieres apostar?? (Ingresa 0 para finalizar)
+23
+
+
+
+
+Tu cartas son:    9 deEspadas
+    3 deEspadas
+Tu total es: 12
+El repartidor muestra el: 10 deDiamantes
+¿Lanzar (L) o Permanecer (P)? L
+
+Lanzamientos de usuario.Tu carta es 8 deTrebolesTu total  ahora es: 20
+
+Tu cartas son:    9 deEspadas
+    3 deEspadas
+    8 deTreboles
+Tu total es: 20
+El repartidor muestra el: 10 deDiamantes
+¿Lanzar (L) o Permanecer (P)? L
+
+Lanzamientos de usuario.Tu carta es 10 deEspadasTu total  ahora es: 30
+Fracasaste por sobrepasar los 21.  Tu perdiste.
+La otra carta del repartidor era:4 deEspadas
+
+Usted tiene 77 dolares.¿Cuanto diner quieres apostar?? (Ingresa 0 para finalizar)
+43
+
+
+
+
+Tu cartas son:    6 deCorazones
+    7 deCorazones
+Tu total es: 13
+El repartidor muestra el: 2 deEspadas
+¿Lanzar (L) o Permanecer (P)? L
+
+Lanzamientos de usuario.Tu carta es Reina deTrebolesTu total  ahora es: 23
+Fracasaste por sobrepasar los 21.  Tu perdiste.
+La otra carta del repartidor era:Rey deTreboles
+
+Usted tiene 34 dolares.¿Cuanto diner quieres apostar?? (Ingresa 0 para finalizar)
+12
+
+
+
+
+Tu cartas son:    10 deCorazones
+    Rey deCorazones
+Tu total es: 20
+El repartidor muestra el: 4 deCorazones
+¿Lanzar (L) o Permanecer (P)? P
+
+Jugador permaneceLas cartas del repartidor son:
+    4 deCorazones
+    9 deCorazones
+El repartidor lanza y obtiene: 9 deTreboles
+
+El repartidor sobrepaso los 21.  Tu ganas
+Usted tiene 46 dolares.¿Cuanto diner quieres apostar?? (Ingresa 0 para finalizar)
+21
+
+
+
+
+Tu cartas son:    5 deTreboles
+    6 deCorazones
+Tu total es: 11
+El repartidor muestra el: 4 deEspadas
+¿Lanzar (L) o Permanecer (P)? L
+
+Lanzamientos de usuario.Tu carta es Reina deTrebolesTu total  ahora es: 21
+
+Tu cartas son:    5 deTreboles
+    6 deCorazones
+    Reina deTreboles
+Tu total es: 21
+El repartidor muestra el: 4 deEspadas
+¿Lanzar (L) o Permanecer (P)? L
+
+Lanzamientos de usuario.Tu carta es 3 deCorazonesTu total  ahora es: 24
+Fracasaste por sobrepasar los 21.  Tu perdiste.
+La otra carta del repartidor era:9 deEspadas
+
+Usted tiene 25 dolares.¿Cuanto diner quieres apostar?? (Ingresa 0 para finalizar)
+0
+Te vas con: $25.
+
+%
+
+2017/11/27
+Bienvenido al juego
+Usted tiene 100 dolares.¿Cuanto diner quieres apostar?? (Ingresa 0 para finalizar)
+100
+
+
+
+
+Tu cartas son:    Jack deEspadas
+    4 deDiamantes
+Tu total es: 14
+El repartidor muestra el: 4 deCorazones
+¿Lanzar (L) o Permanecer (P)? L
+
+Lanzamientos de usuario.Tu carta es Rey deCorazonesTu total  ahora es: 24
+Fracasaste por sobrepasar los 21.  Tu perdiste.
+La otra carta del repartidor era:As deEspadas
+
+Parece que te has quedado sin dinero!!Te vas con: $0.
+
+
+%
+
+
+2017/11/27
+Bienvenido al juego
+Usted tiene 100 dolares.¿Cuanto diner quieres apostar?? (Ingresa 0 para finalizar)
+45
+
+
+El repartidor tiene el: 10 deEspadas y el: 2 deEspadas."El jugador tiene: As deCorazones y el:Rey deCorazones.
+Tu tienes Blackjack. Tú ganaste
+Usted tiene 145 dolares.¿Cuanto diner quieres apostar?? (Ingresa 0 para finalizar)
+45
+
+
+El repartidor tiene el: Rey deTreboles y el: Jack deTreboles."El jugador tiene: 10 deDiamantes y el:As deTreboles.
+Tu tienes Blackjack. Tú ganaste
+Usted tiene 190 dolares.¿Cuanto diner quieres apostar?? (Ingresa 0 para finalizar)
+56
+
+
+
+
+Tu cartas son:    5 deTreboles
+    10 deDiamantes
+Tu total es: 15
+El repartidor muestra el: Jack deEspadas
+¿Lanzar (L) o Permanecer (P)? L
+
+Lanzamientos de usuario.Tu carta es As deEspadasTu total  ahora es: 16
+
+Tu cartas son:    5 deTreboles
+    10 deDiamantes
+    As deEspadas
+Tu total es: 16
+El repartidor muestra el: Jack deEspadas
+¿Lanzar (L) o Permanecer (P)? P
+
+Jugador permaneceLas cartas del repartidor son:
+    Jack deEspadas
+    10 deTreboles
+El total del repartidor es: 20
+El repartidor gana20 frente a:16.
+Usted tiene 134 dolares.¿Cuanto diner quieres apostar?? (Ingresa 0 para finalizar)
+0
+Te vas con: $134.
+
+
+
+%
+
+
+
+2017/11/27
+Bienvenido al juego
+Usted tiene 100 dolares.¿Cuanto diner quieres apostar?? (Ingresa 0 para finalizar)
+100
+
+
+
+
+Tu cartas son:    5 deEspadas
+    9 deTreboles
+Tu total es: 14
+El repartidor muestra el: Rey deEspadas
+¿Lanzar (L) o Permanecer (P)? L
+
+Lanzamientos de usuario.Tu carta es 4 deTrebolesTu total  ahora es: 18
+
+Tu cartas son:    5 deEspadas
+    9 deTreboles
+    4 deTreboles
+Tu total es: 18
+El repartidor muestra el: Rey deEspadas
+¿Lanzar (L) o Permanecer (P)? L
+
+Lanzamientos de usuario.Tu carta es 6 deTrebolesTu total  ahora es: 24
+Fracasaste por sobrepasar los 21.  Tu perdiste.
+La otra carta del repartidor era:9 deEspadas
+
+Parece que te has quedado sin dinero!!Te vas con: $0.
+
+
+
+
+%
+
+
+
+
+
+
+%
+
+
+
+
+%
+
+
+%
